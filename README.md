@@ -21,6 +21,6 @@ Open a browser and go to localhost:8080.
 
 ## Screen
 <div align="center">
-  <img src="./screen.png" width="300">  
+  <img src="https://github.com/devman-AI/google-chatbot/blob/master/screen.PNG" width="600">  
   <p>chatbot</p>
 </div>
